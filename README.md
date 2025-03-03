@@ -13,6 +13,7 @@ BooTun
 - [BookingBot](https://github.com/kimmosc2/booking-bot): 自动抢购/预约口罩
 
 ## ⛳ Interests
+- LLM
 - Compiler
 - Language Implementation
 - Operation System
